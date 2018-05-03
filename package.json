@@ -1,0 +1,20 @@
+{
+  "name": "polymer3-font-awesome",
+  "version": "3.0.0-pre.12",
+  "description": "Polymer element to use Font Awesome icons",
+  "author": "Jason Ilicic <me@jasey.io>",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaseeey/polymer-font-awesome.git"
+  },
+  "dependencies": {
+    "@polymer/iron-icon": "3.0.0-pre.12",
+    "@polymer/iron-iconset-svg": "3.0.0-pre.12",
+    "@polymer/polymer": "3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "1.2.0"
+  },
+  "devDependencies": {
+    "svgson": "^2.1.1"
+  }
+}
